@@ -39,3 +39,7 @@ Freeze_Train = True
 先将`frcnn.py`中的`"model_path"`参数取值调整为需要读取的权重文件
 
 再运行`get_map.py`
+
+## Reference
+https://github.com/bubbliiiing/faster-rcnn-pytorch
+
